@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ca5df6deb72e224c9dc6d9966ab50ac, type: 3}
+  m_Name: F2000GunSO
+  m_EditorClassIdentifier: 
+  itemName: F2000
+  itemImage: {fileID: 21300000, guid: 1cd317125ab9a7542953ad291f239e61, type: 3}
+  itemGameobject: {fileID: 9102613587591116593, guid: c153d8c6c77e8314ea7e15941eb985bd,
+    type: 3}
+  itemCount: 1
+  defaultAmmo: 10
+  gunLevel: 1
+  magazineAmmoLimit: 30
+  magazineLimit: 3
